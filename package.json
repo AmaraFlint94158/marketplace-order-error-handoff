@@ -1,0 +1,1 @@
+{"name":"marketplace-error-handoff","private":true,"type":"module","scripts":{"start":"node src/order_handoff.ts","test":"node --test src/order_handoff.test.ts","typecheck":"tsc --noEmit"},"dependencies":{"zod":"^3.23.0"},"devDependencies":{"@types/node":"^22.0.0","typescript":"^5.6.0"}}
